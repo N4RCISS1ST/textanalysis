@@ -1,0 +1,10 @@
+pymorphy2
+emoji
+bs4
+requests
+pandas
+numpy
+sklearn
+keras
+ntlk
+matplotlib
